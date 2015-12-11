@@ -13,5 +13,5 @@
 | 🐛 `:bug:` | fix bugs |
 | 🔬 `:microscope:` | tests and experimentation |
 | 📓 `:notebook:` | update documentation |
-| :paperclip: `:paperclip:` | update structure of code |
+| 📎 `:paperclip:` | update structure of code |
 | 📖 `:book:` | update user facing content |
