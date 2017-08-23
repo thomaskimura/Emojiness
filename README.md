@@ -11,6 +11,7 @@
 | 🐎 `:racehorse:` | improve the performance |
 | 🔥 `:fire:` | remove code/files |
 | 🐛 `:bug:` | fix bugs |
+| 🚧 `:construction:` | work in progress |
 | 🔬 `:microscope:` | tests and experimentation |
 | 📎 `:paperclip:` | structure of code |
 | ⬆️ `:arrow_up:` | upgrade dependencies |
