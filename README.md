@@ -7,7 +7,8 @@
 | 🚀 `:rocket:` | general update |
 | 🎉 `:tada:` | initial commit made |
 | ✨ `:sparkles:` | new feature |
-| 🎨 `:art:` | change the appearance |
+| 🎨 `:art:` | change the appearance / front-end changes |
+| 🌐 `:globe_with_meridians:` | back-end changes |
 | 🐎 `:racehorse:` | improve the performance |
 | 🔥 `:fire:` | remove code/files |
 | 🐛 `:bug:` | fix bugs |
